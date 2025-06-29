@@ -21,7 +21,7 @@ This project applies IIR filter-based frequency isolation to cleanly separate hu
 
 ## 📌 Processing Flow
 
-*(include your Flow\.png here if possible)*
+  ![Flow](https://github.com/user-attachments/assets/e3fac5fe-a50b-4054-bd6f-1b4de759c73c)
 
 ---
 
