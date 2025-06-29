@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ec194405-a764-4f7f-8467-64864a7af43c
 # 🎧 Voice & Music Separation in MATLAB
 
 **Separate vocals and instrumentals from any audio file using classic digital signal processing techniques in MATLAB.**
